@@ -3,7 +3,7 @@ A tool for maya that reads joint information from a xml file and quickly pose th
 ## UI
 ![UI](UI.png)
 ## Demo Video
-[Demo Video Link](https://openai.com)
+[Demo Video Link](https://youtu.be/i81-6g1atxE)
 ## Features
  - Read XML files containing transfom data on joints.
  - Automatically map the data onto an existing rig for fast posing.
